@@ -1,0 +1,12 @@
+.wrapper {
+  border: 5px solid black;
+}
+
+.farm,
+.cave,
+.casino,
+.house {
+  /* border: 5px solid black; */
+  display: inline-block;
+  width: 200px;
+}
