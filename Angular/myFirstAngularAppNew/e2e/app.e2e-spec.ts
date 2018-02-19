@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('ninja-gold App', () => {
+describe('my-first-angular-app App', () => {
   let page: AppPage;
 
   beforeEach(() => {
